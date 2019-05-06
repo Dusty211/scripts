@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gresources>
   <gresource prefix="/org/gnome/shell/theme">
+    <file>gnome-shell-theme.gresource.xml</file>
     <file>toggle-on-hc.svg</file>
     <file>gnome-shell.css</file>
     <file>process-working.svg</file>
@@ -25,6 +26,7 @@
     <file>calendar-today.svg</file>
     <file>key-hide.svg</file>
     <file>toggle-on-intl.svg</file>
+    <file>gnome-shell-theme.gresource</file>
     <file>icons/message-indicator-symbolic.svg</file>
   </gresource>
 </gresources>
